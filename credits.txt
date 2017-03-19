@@ -1,11 +1,8 @@
-Trance Client made by Dragon Trance
+Made By Dragon Trance
 GitHub: DragonTrance
 Android Aminos: Dragon Trance
 Minecraft: Dragon_Trance
 Email (I dont use this often): dragontrance6603@gmail.com
 
-Application used to code: Eclipse Neon.2
-Application Download Link: http://www.eclipse.org/downloads/
-
-Code Includes:
-https://www.youtube.com/watch?v=o0pG88MnCS4&t=84s
+Application used: Unity 5
+Application Download Link: unity3d.com
